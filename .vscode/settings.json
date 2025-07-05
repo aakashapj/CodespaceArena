@@ -1,0 +1,26 @@
+{
+    "dotnet.defaultSolution": "CSharpSoluiton.slnx",
+    "folder-color.pathColors": [
+        {
+            "folderPath": "RevisionProject\\Csharp\\2_DiceRollGame\\",
+            "badge": "✅",
+            "color": "foldercolorizer.color_6600ff"
+        },
+        {
+            "folderPath": "RevisionProject\\Csharp\\2_DiceRollGame\\DiceRollGame\\UserCommunication\\IUserInteraction.cs\\",
+            "color": "foldercolorizer.color_00ccff"
+        },
+        {
+            "folderPath": "RevisionProject\\Csharp\\1_ToDoList\\",
+            "badge": "✅"
+        },
+        {
+            "folderPath": "RevisionProject\\python\\1_ToDoList\\",
+            "badge": "✅"
+        },
+        {
+            "folderPath": "RevisionProject\\Csharp\\3_CookieCookbook\\",
+            "color": "foldercolorizer.color_660000"
+        }
+    ]
+}
