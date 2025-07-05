@@ -1,0 +1,7 @@
+<Solution>
+  <Folder Name="/Csharp/">
+    <Project Path="1_ToDoList/TodoList/TodoList.csproj" />
+    <Project Path="2_DiceRollGame/DiceRollGame/DiceRollGame.csproj" />
+    <Project Path="3_CookieCookbook/CookieCookbook/CookieCookbook.csproj" />
+  </Folder>
+</Solution>
